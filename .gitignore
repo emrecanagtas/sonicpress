@@ -4,3 +4,4 @@ out/
 .env
 *.log.env.local
 .env.local
+.env.local
